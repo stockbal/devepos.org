@@ -3,10 +3,10 @@
    <feature url="features/com.devepos.adt.utilities_1.0.1.jar" id="com.devepos.adt.utilities" version="1.0.1">
       <category name="ADT Utilities"/>
    </feature>
-   <feature url="features/com.devepos.adt.searchandanalysistools_1.3.0.202007121713.jar" id="com.devepos.adt.searchandanalysistools" version="1.3.0.202007121713">
+   <feature url="features/com.devepos.adt.searchandanalysistools_1.3.1.202007121749.jar" id="com.devepos.adt.searchandanalysistools" version="1.3.1.202007121749">
       <category name="ABAP Search Tools"/>
    </feature>
-   <feature url="features/com.devepos.adt.abaptags_1.0.1.202007121713.jar" id="com.devepos.adt.abaptags" version="1.0.1.202007121713">
+   <feature url="features/com.devepos.adt.abaptags_1.0.2.202007121749.jar" id="com.devepos.adt.abaptags" version="1.0.2.202007121749">
       <category name="ABAP Tags"/>
    </feature>
    <category-def name="ABAP Search Tools" label="ABAP Search Tools">
